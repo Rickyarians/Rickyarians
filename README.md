@@ -20,13 +20,18 @@
 
 ### 🚀 Quick Stats
 
-<div style="display:'flex';flex-direction: 'row'">
-<img width="400" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Rickyarians&show_icons=true&line_height=21&theme=react" alt="Ricky's Github Stats" />
+<div>
+    <div style="display:'flex';flex-direction: 'row'">
 <img width="400" align="center" src="https://streak-stats.demolab.com?user=Rickyarians&theme=gotham" alt="Ricky's Github Stats" />
+<img width="400" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Rickyarians&show_icons=true&line_height=21&theme=react" alt="Ricky's Github Stats" />
 </di>
+</div>
+
+
 ----
 
-<a href="l">
+<div>
+  <a href="l">
   <img align="left" alt="Ricky's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="">
@@ -43,5 +48,6 @@
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website & Gallery : []() &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+</div>
 
 
