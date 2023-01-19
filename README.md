@@ -19,9 +19,9 @@
 
 ### 🚀 Quick Stats
 
-<div style="display:flex;flex-direction: row">
-<img width="500" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Rickyarians&show_icons=true&line_height=21&theme=react" alt="Ricky's Github Stats" />
-<img width="500" align="center" src="https://streak-stats.demolab.com?user=Rickyarians&theme=gotham" alt="Ricky's Github Stats" />
+<div style="display:'flex';flex-direction: 'row'">
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Rickyarians&show_icons=true&line_height=21&theme=react" alt="Ricky's Github Stats" />
+<img width="450" align="center" src="https://streak-stats.demolab.com?user=Rickyarians&theme=gotham" alt="Ricky's Github Stats" />
 
 ----
 
