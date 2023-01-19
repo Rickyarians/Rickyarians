@@ -23,9 +23,25 @@
 
 
 
-<a href="https://www.linkedin.com/in/rickyarians/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+
+----
+
+<a href="l">
+  <img align="left" alt="Ricky's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="">
+  <img align="left" alt="Ricky's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://linkedin.com/in/rickyarians">
+  <img align="left" alt="Ricky's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="">
+  <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
+</a>
+<a href="">
+  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
 </a>
 
+| &nbsp;&nbsp;&nbsp; Website & Gallery : []() &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
 
 
