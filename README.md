@@ -20,7 +20,7 @@
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Rickyarians&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rickyarians&theme=gotham)](https://git.io/streak-stats)
 ![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickyarians&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ----
